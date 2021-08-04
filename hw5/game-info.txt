@@ -1,0 +1,36 @@
+Ryan Barber
+CISC 440
+HW 5
+
+Game: Simple Qbert
+
+GAME INFO
+
+Summary under paragraph
+
+The game is a simplified version of Qbert. The goal is to change the color of all
+the cubes to the final color. The number of colors per cube depends on the level.
+Level 1 requires you jump on a cube once, level 2 means you jump on cubes twice,
+etc. There are 3 levels. Each level you get 3 lives. If you run into Bad Qbert,
+you will lose a life and be placed back at the top of the pyramid. The cubes will
+not reset if you lose a life. If you lose all lives, the game resets to level 1.
+Once you complete a level, you are reset to the top of the pyramid and all the
+cube colors are reset to first color. If you beat level 3 (final level) you win
+the game. You can just jump around, quit, or reset, otherwise nothing will happen.
+You can't jump off the edge either.
+
+
+
+Lives: 3 per level
+
+Levels: 3
+
+Don't run into bad Qbert
+
+Controls
+	t - up, left
+	y - up, right
+	g - down, right
+	h - down, left
+	space - reset
+	escape - quit program.

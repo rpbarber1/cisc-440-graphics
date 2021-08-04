@@ -1,0 +1,14 @@
+#version 330 core
+
+//Ryan Barber
+//CISC 440
+// HW 5
+
+// Ouput data
+out vec3 color;
+in vec3 fragmentColor;
+
+void main()
+{
+	color = fragmentColor;  
+}
