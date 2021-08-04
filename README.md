@@ -11,3 +11,6 @@ tutorials.
 
 hw5 is a simple version of Q-Bert, there is a screenshot in the output folder.
 There is more info about the game in the hw5 folder.
+
+You can't download and run the game with just these files.
+You must set up your environment following the instructions in the link provided.
